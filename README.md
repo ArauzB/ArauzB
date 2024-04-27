@@ -4,13 +4,20 @@
 
 Sobre mí
 🌱 Actualmente estoy aprendiendo JavaScrip, Typescript, Nodejs, etc.
+
 👯 Estoy buscando colaborar en proyectos interesantes.
+
 💬 Pregúntame sobre cualquier cosa relacionada con tecnología.
 
+
 Mis habilidades
+
 Lenguajes de Programación: JavaScript, C#, Arduino, etc.
+
 Herramientas y Tecnologías: Angularjs, Node.js, Docker.
+
 Bases de Datos:  MySQL, SqlServer, Oracle.
+
 
 Estadísticas de GitHub
 
@@ -18,4 +25,4 @@ Cómo contactarme
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
 [LinkedIn](https://www.linkedin.com/in/angel-barrios-arauz/)
-[Twitter]([enlace a tu perfil de Twitter](https://twitter.com/ArauzB_))
+[Twitter](https://twitter.com/ArauzB_))
