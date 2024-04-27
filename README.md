@@ -25,4 +25,4 @@ Cómo contactarme
 ¡Me encantaría conectar contigo! Puedes encontrarme en:
 
 [LinkedIn](https://www.linkedin.com/in/angel-barrios-arauz/)
-[Twitter](https://twitter.com/ArauzB_))
+[Twitter](https://twitter.com/ArauzB_)
