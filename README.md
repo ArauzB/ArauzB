@@ -4,7 +4,9 @@
 
 Sobre mí
 🌱 Actualmente estoy aprendiendo JavaScrip, Typescript, Nodejs, etc.
+
 👯 Estoy buscando colaborar en proyectos interesantes.
+
 💬 Pregúntame sobre cualquier cosa relacionada con tecnología.
 
 ## Lenguajes de Programación que Utilizo
@@ -17,7 +19,9 @@ Sobre mí
 Mis habilidades
 
 Lenguajes de Programación: JavaScript, C#, Arduino, etc.
+
 Herramientas y Tecnologías: Angularjs, Node.js, Docker.
+
 Bases de Datos:  MySQL, SqlServer, Oracle.
 
 
