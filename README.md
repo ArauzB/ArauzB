@@ -35,5 +35,10 @@ Bases de Datos:  MySQL, SqlServer, Oracle.
 ¡Gracias por visitar mi perfil! 😄
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/730938209051213866)](https://discord.com/users/730938209051213866)
+[![Discord Presence](https://lanyard.cnrad.dev/api/730938209051213866)](https://discord.com/users/730938209051213866)    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arauzb&theme=dracula&show_icons=true) 
+
+
+
+
+
 
