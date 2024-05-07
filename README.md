@@ -11,7 +11,6 @@ Sobre mí
 
 ## Lenguajes de Programación que Utilizo
 
-- C++
 - C#
 - JavaScript / TypeScript
 - Arduino
