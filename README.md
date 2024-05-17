@@ -1,6 +1,6 @@
 ¡Hola! Soy ArauzB
 
-¡Bienvenido a mi perfil de GitHub! Soy apasionada por aprender nuevos lenguajes de programación, invertir en nuevas tecnologías y explorar la programación de sistemas.
+¡Bienvenido a mi perfil de GitHub! Soy apasionado por aprender nuevos lenguajes de programación, invertir en nuevas tecnologías y explorar la programación de sistemas.
 
 Sobre mí
 🌱 Actualmente estoy aprendiendo JavaScrip, Typescript, Nodejs, etc.
