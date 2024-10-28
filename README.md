@@ -3,7 +3,7 @@
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado por aprender nuevos lenguajes de programación, invertir en nuevas tecnologías y explorar la programación de sistemas.
 
 Sobre mí
-🌱 Actualmente domino JavaScrip, Typescript, Nodejs, etc.
+🌱 Actualmente domino JavaScript, Typescript, Nodejs, etc.
 
 👯 Estoy buscando colaborar en proyectos interesantes.
 
