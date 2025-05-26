@@ -5,23 +5,20 @@
 Sobre mí
 🌱 Actualmente domino JavaScript, Typescript, Nodejs, etc.
 
-👯 Estoy buscando colaborar en proyectos interesantes.
-
-💬 Pregúntame sobre cualquier cosa relacionada con tecnología.
-
 ## Lenguajes de Programación que Utilizo
 
 - C#
+- PHP
 - JavaScript / TypeScript
 - Arduino
 
 Mis habilidades
 
-Lenguajes de Programación: JavaScript, C#, Arduino, etc.
+Lenguajes de Programación: JavaScript, PHP, C#, Arduino, etc.
 
-Herramientas y Tecnologías: Angularjs, Node.js, Docker.
+Herramientas y Tecnologías: Angularjs, Node.js, Laravel, Docker.
 
-Bases de Datos:  MySQL, SqlServer, Oracle.
+Bases de Datos:  MySQL, Postgres, SqlServer, Oracle.
 
 
 ## Contacto
@@ -30,6 +27,7 @@ Bases de Datos:  MySQL, SqlServer, Oracle.
 
 - Twitter: [ArauzB_ en Twitter](https://twitter.com/ArauzB_)
 - Email: arauz220678@gmail.com
+- GitHub-Actual Empresa: [angel-tutto en github](https://github.com/angel-tutto)
 
 ¡Gracias por visitar mi perfil! 😄
 
