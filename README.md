@@ -1,41 +1,40 @@
-¡Hola! Soy ArauzB
+# Angel Barrios Arauz
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado por aprender nuevos lenguajes de programación, invertir en nuevas tecnologías y explorar la programación de sistemas.
+**Ingeniero en Sistemas** | Guatemala
 
-Sobre mí
-🌱 Actualmente domino JavaScript, Typescript, Nodejs, etc.
+Desarrollo soluciones web completas — desde landing pages hasta sistemas con CMS, notificaciones por email y bases de datos. Mi enfoque: resolver problemas reales del entorno y convertirlos en productos funcionales.
 
-## Lenguajes de Programación que Utilizo
+---
 
-- C#
-- PHP
-- JavaScript / TypeScript
-- Arduino
+### Stack
 
-Mis habilidades
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
 
-Lenguajes de Programación: JavaScript, PHP, C#, Arduino, etc.
+**Backend:** Node.js · Angular · C# / .NET · PHP / Laravel
 
-Herramientas y Tecnologías: Angularjs, Node.js, Laravel, Docker.
+**Bases de datos:** PostgreSQL · MySQL · SQL Server · Oracle · Supabase
 
-Bases de Datos:  MySQL, Postgres, SqlServer, Oracle.
+**Infraestructura:** Vercel · Docker · Supabase · Resend
 
+**Otros:** Arduino · Unity · Ollama + Whisper (IA)
 
-## Contacto
+---
 
-¡Conversemos! Puedes encontrarme en:
+### Proyectos recientes
 
-- Twitter: [ArauzB_ en Twitter](https://twitter.com/ArauzB_)
+| Proyecto | Stack | Descripcion |
+|---|---|---|
+| Piercing Studio | Next.js + Supabase | Landing page con CMS, galeria collage, parallax |
+| Catalogo de Moda | Next.js + Supabase | Catalogo estilo Bershka con admin de productos |
+| Comunidad de Lectura | Next.js + Supabase + Resend | Eventos, suscripciones, notificaciones por email |
+| Equipo Esports | Next.js + Framer Motion | Landing con roster, tryouts, galeria |
+| Tattoo Artist | Next.js + Supabase | Galeria filtrable con admin y lightbox |
+
+---
+
+### Contacto
+
 - Email: arauz220678@gmail.com
-- GitHub-Actual Empresa: [angel-tutto en github](https://github.com/angel-tutto)
+- GitHub trabajo: [abarriosdpb](https://github.com/abarriosdpb)
 
-¡Gracias por visitar mi perfil! 😄
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/730938209051213866)](https://discord.com/users/730938209051213866)   
-
-
-
-
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/730938209051213866)](https://discord.com/users/730938209051213866)
