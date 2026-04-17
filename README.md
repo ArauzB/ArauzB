@@ -8,7 +8,9 @@
 
 ---
 
-I build web solutions that solve real problems — from portfolio sites with CMS admin panels to community platforms with automated email notifications. I turn ideas from my environment into functional products.
+I build full-stack products end-to-end: from auth and row-level security to real-time notifications, Web Push and installable PWAs. I ship small, secure, and fast — and I turn real-world problems from my environment into working products.
+
+Currently focused on: production-grade auth/RLS patterns on Supabase, Web Push on self-hosted VAPID, and LLM inference optimization on cheap VPS.
 
 ---
 
@@ -17,26 +19,32 @@ I build web solutions that solve real problems — from portfolio sites with CMS
 ```
 Frontend    Next.js · React · Angular · TypeScript · Tailwind CSS · Framer Motion
 Backend     Node.js · C# / .NET · PHP / Laravel
-Database    PostgreSQL · MySQL · SQL Server · Oracle · Supabase
-Deploy      Vercel · Docker · Resend
-Other       Arduino · Unity · Ollama + Whisper (AI)
+Database    PostgreSQL · MySQL · SQL Server · Oracle · Supabase (RLS + realtime)
+Security    HMAC-signed sessions · strict RLS · CSP/HSTS · rate limiting · bcrypt
+Realtime    WebSockets · postgres_changes · polling fallback · reconnect backoff
+PWA/Push    Service Workers · Web Push (VAPID) · manifest · iOS install flow
+AI          Ollama · ChromaDB · Whisper · RAG · prompt caching
+Deploy      Vercel (CLI) · Docker · Resend
+Other       Arduino · Unity · Web Crypto API · SIMD-aware workflows
 ```
 
 ---
 
-### Recent work
+### Active / recent work
 
-| Project | What it does | Built with |
+| Project | What it does | Highlights |
 |---|---|---|
-| **Book Exchange Community** | Events, subscriptions, auto email notifications | Next.js · Supabase · Resend |
-| **Piercing Studio** | Portfolio with collage gallery, parallax, admin CMS | Next.js · Supabase · Framer Motion |
-| **Fashion Catalog** | Bershka-style product catalog with admin panel | Next.js · Supabase |
-| **Esports Team** | Landing page with roster, tryouts, stats | Next.js · Tailwind · Framer Motion |
-| **Tattoo Artist** | Filterable gallery with admin upload system | Next.js · Supabase |
-| **Clipboard Sync** | Real-time clipboard sharing across devices | Node.js · WebSocket |
-| **Gym System** | Full management: clients, admin, API | Angular · Node.js · Express |
+| **[The Book Swap](https://thebookswapgt.vercel.app)** | Book-exchange community (users, catalog, QR loans, reviews) | HMAC session cookies · strict Postgres RLS with column-level grants · Web Push (VAPID + service worker) · realtime + polling fallback · PWA installable on iOS 16.4+ |
+| **[Letum](https://letum.net)** | Diary + social network + memorials with AI features | i18n ES/EN · realtime DMs · SEO OG · Series UI · Resend emails · Supabase |
+| **[Limbi](#)** | Emotional support chatbot (graduation project) | Local LLM via Ollama · ChromaDB RAG · Whisper STT · Angular/Ionic |
+| **[Piercing Studio](https://piercingsxjunior.vercel.app)** | Portfolio with collage gallery, parallax, admin CMS | Next.js · Supabase · Framer Motion |
+| **[LaPicky](https://www.lapicky.store)** | Fashion catalog with custom domain + admin | Next.js · Supabase · Bershka-inspired UI |
+| **[Insomnio Esports](https://insomnio-esports.vercel.app)** | Team landing: roster, tryouts, stats | Next.js · Framer Motion |
+| **[ALN TTS Tattoo](https://aln-tts-tattoo.vercel.app)** | Filterable gallery + admin upload | Next.js · Supabase |
+| **Clipboard Sync** | Real-time clipboard across devices | Node.js · WebSocket |
+| **Gym System** | Client management, admin, REST API | Angular · Node.js · Express |
 | **Diabetes Tracker** | Blood glucose monitoring app | Angular · Node.js |
-| **Custom Compiler** | Lexer, parser, code generation from scratch | TypeScript |
+| **Custom Compiler** | Lexer, parser, codegen from scratch | TypeScript |
 
 ---
 
